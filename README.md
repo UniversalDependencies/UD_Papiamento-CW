@@ -1,16 +1,18 @@
 # Summary
 
-... 1-2 sentences (see [release checklist](http://universaldependencies.org/release_checklist.html#the-readme-file) for README guidelines) ...
+If you can read this sentence, then we are still working on our first release.
+
 
 
 # Introduction
 
-...
+We are currently working on our first release.
 
 
 # Acknowledgments
 
-...
+The annotators team.
+All annotators and other contributors who wished to remain anonymous.
 
 ## References
 
